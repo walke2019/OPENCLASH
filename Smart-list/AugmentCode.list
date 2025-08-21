@@ -4,6 +4,7 @@
 # AugmentCode主域名
 DOMAIN-SUFFIX,augmentcode.com
 DOMAIN-SUFFIX,www.augmentcode.com
+DOMAIN-SUFFIX,vsassets.io
 
 # AugmentCode可能的子域名
 DOMAIN-SUFFIX,api.augmentcode.com
@@ -12,3 +13,5 @@ DOMAIN-SUFFIX,cdn.augmentcode.com
 DOMAIN-SUFFIX,static.augmentcode.com
 DOMAIN-SUFFIX,assets.augmentcode.com
 DOMAIN-SUFFIX,status.augmentcode.com
+DOMAIN-SUFFIX,gallerycdn.vsassets.io
+DOMAIN-SUFFIX,augment.gallerycdn.vsassets.io
