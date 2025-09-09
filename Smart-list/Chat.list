@@ -10,4 +10,6 @@ DOMAIN-SUFFIX,strpst.com
 
 # chat可能的子域名
 DOMAIN-SUFFIX,hu.stripchat.com
+DOMAIN-SUFFIX,hu.xhamsterlive.com
 DOMAIN-SUFFIX,img.doppiocdn.com
+DOMAIN-SUFFIX,img.doppiocdn.net
