@@ -7,3 +7,7 @@ DOMAIN-SUFFIX,xhamsterlive.com
 DOMAIN-SUFFIX,doppiocdn.com
 DOMAIN-SUFFIX,doppiocdn.net
 DOMAIN-SUFFIX,strpst.com
+
+# chat可能的子域名
+DOMAIN-SUFFIX,hu.stripchat.com
+DOMAIN-SUFFIX,img.doppiocdn.com
