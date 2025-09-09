@@ -1,5 +1,5 @@
 # AugmentCode域名分流规则
-# 配置为美国自动、日本自动
+# 配置为美国自动
 
 # AugmentCode相关域名
 DOMAIN-SUFFIX,augmentcode.com
