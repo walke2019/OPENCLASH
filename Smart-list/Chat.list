@@ -1,0 +1,8 @@
+# chat域名分流规则
+# 配置为美国自动
+
+# chat主域名
+DOMAIN-SUFFIX,stripchat.com
+DOMAIN-SUFFIX,xhamsterlive.com
+DOMAIN-SUFFIX,doppiocdn.net
+DOMAIN-SUFFIX,strpst.com
